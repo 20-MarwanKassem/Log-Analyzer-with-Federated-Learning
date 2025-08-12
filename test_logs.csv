@@ -1,0 +1,51 @@
+user_id,device_name,device_mac,device_ip,time,log
+3,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 19:56:42,CPU usage normal
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 15:12:42,System started normally
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 17:52:42,Network connection established
+1,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-21 03:04:42,Multiple authentication failures detected
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 04:49:42,Memory usage normal
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-21 07:19:42,Memory usage exceeds threshold
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 08:19:42,CPU usage normal
+1,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 20:32:42,Memory usage normal
+2,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 11:21:42,CPU usage normal
+3,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 16:26:42,Unexpected system shutdown
+2,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 02:10:42,CPU usage critical
+2,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 16:10:42,CPU usage normal
+2,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-21 06:25:42,System started normally
+1,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-21 10:01:42,Network connection established
+2,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-21 11:17:42,User logged in successfully
+3,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-21 09:45:42,System scan completed: no threats found
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 04:33:42,Failed login attempt detected
+3,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-21 05:44:42,CPU usage critical
+2,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-21 03:59:42,CPU usage normal
+2,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 12:48:42,Memory usage exceeds threshold
+1,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 12:20:42,Unusual network traffic detected
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 16:55:42,Unexpected system shutdown
+1,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 10:00:42,Multiple authentication failures detected
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 13:52:42,Network connection established
+1,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-21 08:38:42,Unexpected system shutdown
+3,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 21:14:42,File sync completed
+2,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-21 06:24:42,Memory usage normal
+2,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 12:45:42,System started normally
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 16:51:42,Unusual network traffic detected
+2,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 03:30:42,Memory usage normal
+1,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 15:37:42,Firewall breach attempt detected
+2,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-21 10:03:42,Unexpected system shutdown
+1,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 05:10:42,File sync completed
+2,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 13:18:42,System scan completed: no threats found
+3,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 17:00:42,Backup completed successfully
+1,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 20:43:42,Memory usage exceeds threshold
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-21 03:26:42,Disk check completed successfully
+2,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 13:09:42,Unusual network traffic detected
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 15:10:42,Software update check completed
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-21 03:53:42,Memory usage normal
+1,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 11:47:42,System started normally
+2,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 21:36:42,Memory usage exceeds threshold
+1,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 19:31:42,Unexpected system shutdown
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 13:41:42,Firewall breach attempt detected
+1,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 22:19:42,Backup completed successfully
+3,Workstation-01,00:1B:44:11:3A:B7,192.168.1.101,2025-06-20 20:47:42,Multiple authentication failures detected
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-21 03:57:42,Unexpected system shutdown
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-20 12:17:42,Disk check completed successfully
+3,Workstation-02,00:1B:44:11:3A:C9,192.168.1.102,2025-06-21 05:48:42,System scan completed: no threats found
+1,Server-01,00:1B:63:84:45:E6,192.168.1.10,2025-06-20 13:48:42,Memory usage normal
